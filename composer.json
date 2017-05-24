@@ -1,0 +1,22 @@
+{
+    "name": "lzaplata/certitrade",
+    "description": "Certitrade wrapper for Nette Framework.",
+    "keywords": ["nette", "certitrade"],
+    "homepage": "https://github.com/LZaplata/Certitrade",
+    "license": "New BSD",
+    "authors": [
+        {
+            "name": "Lukáš Záplata",
+            "email": "lukas.zaplata@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "nette/di": "~2.3",
+//        "nette/application": "~2.3",
+//        "nette/utils": "~2.3"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
