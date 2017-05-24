@@ -13,8 +13,8 @@
     "require": {
         "php": ">=5.4",
         "nette/di": "~2.3",
-//        "nette/application": "~2.3",
-//        "nette/utils": "~2.3"
+        "nette/application": "~2.3",
+        "nette/utils": "~2.3"
     },
     "autoload": {
         "classmap": ["src/"]
