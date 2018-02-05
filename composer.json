@@ -3,7 +3,6 @@
     "description": "Certitrade wrapper for Nette Framework.",
     "keywords": ["nette", "certitrade"],
     "homepage": "https://github.com/LZaplata/Certitrade",
-    "license": "New BSD",
     "authors": [
         {
             "name": "Lukáš Záplata",
